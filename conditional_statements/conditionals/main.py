@@ -13,6 +13,6 @@ elif product_type == "Dairy" and day_of_week == "Wednesday":
 
 elif product_type == "Other":
     print("No discount available.")
-    
-else: 
+
+else:
     print("No special discounts today.")
